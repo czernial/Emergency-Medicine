@@ -1,0 +1,50 @@
+/ .PYSCHOBSNOTE
+
+Psychiatric Hold Progress Note
+
+@TD@, @now@
+
+Patient Name: 		@NAME@
+Patient Date of Birth:	@DOB@
+Medical Record Number:	@MRN@
+
+ED Arrival Time: @ZZEDARRIVALDTTM[10149539,1,EPT@
+
+
+Assumed care at change of shift.  Case discussed and chart reviewed.
+
+From Triage:
+@CHIEFCOMPLAINT@
+
+ED Medications:
+
+@EDMEDS@ 
+
+Past Medical History:
+
+@MEDICALHX@
+
+Vital Signs:
+
+@RECENTVITALS@ 
+
+Physical Exam:
+
+***
+
+Impression:
+
+@DIAGXR@
+
+No acute issues.
+
+Plan:
+
+1.	Continue to monitor for safety.
+2.	Awaiting Placement
+
+
+
+@ME@	@TDR@, @NOWR@
+
+Emergency Medicine 
