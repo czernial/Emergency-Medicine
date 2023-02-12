@@ -1,0 +1,40 @@
+
+Medical Decision Making  
+
+Differential Diagnosis:   {TIP  | Include any diagnoses, including serious ones that you considered but evaluation suggest against. :1001001} ***
+
+Social Determinants of Health:  {TIP  | Include how these impacted the ED Course or Disposition.:1001001} {Social determinants:40715}
+
+Supplemental Historians include:  {historians:40716::"patient"}
+ 
+ED Course:   {TIP  | Include Pre-Hospital medical control or medications given. :1001001}  *** 
+
+Documentation/Prior Results Review:  {TIP  | External notes are from a source other than a previous ED visit by your group. Include description of the note and the source. :1001001} {Records review:60251}
+
+Rhythm interpretation from monitor: {FINDINGS;ED ECG NORMAL:26829::"N/A"}
+
+Imaging Interpreted by me: {TIP  | Document at least one positive or negative finding :1001001}
+ {interpretation:40719::"Not Applicable"}
+
+EKG 12-LEAD
+@EDINTERP
+
+Discussion of Mangement with other Physicians, QHP or Appropriate Source:   {TIP  | Include what was discussed and plan. :1001001} {consults discussed:40749}
+
+Disposition:  {DISPOSITION- ED:24293::"Home"}
+
+
+Smartlists
+{Social determinants:40715}
+
+{historians:40716::"patient"}
+
+{Records review:60251}
+
+Rhythm interpretations {FINDINGS;ED ECG NORMAL:26829::"N/A"}
+
+Consults {consults discussed:40749}
+
+Imaging {interpretation:40719::"Not Applicable"}
+
+Disposition {DISPOSITION- ED:24293::"Home"}
