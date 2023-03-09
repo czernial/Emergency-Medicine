@@ -46,5 +46,3 @@ Plan:
 
 
 @ME@	@TDR@, @NOWR@
-
-Emergency Medicine 
